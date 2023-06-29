@@ -1,7 +1,6 @@
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=lkjfrf&show_icons=true&theme=default" width=49.2%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkjfrf&layout=compact&theme=default" width=41.11%/>
+<img src="https://github-readme-stats.vercel.app/api?username=lkjfrf&show_icons=true&theme=radical" width=49.2%/>
 </div>
 
 <br/>
